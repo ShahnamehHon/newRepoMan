@@ -41,7 +41,7 @@ public class New1Test {
     driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
     driver.findElement(By.cssSelector("div:nth-child(2) > .rc .LC20lb")).click();
     driver.findElement(By.id("fcc_instantsearch")).click();
-    driver.findElement(By.id("fcc_instantsearch")).sendKeys("selenium");
+    driver.findElement(By.id("fcc_instantsearch")).sendKeys("AutomaAion");
     driver.findElement(By.id("fcc_instantsearch")).sendKeys(Keys.ENTER);
     driver.findElement(By.linkText("A recipe for website automated tests with Python Selenium & Headless Chrome in Docker")).click();
     driver.findElement(By.linkText("Github repo")).click();
