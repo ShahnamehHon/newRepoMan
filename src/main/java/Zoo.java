@@ -8,6 +8,6 @@ public class Zoo {
         myZoo.setWeight(285.05);
         double printWeight = myZoo.getWeight();
         System.out.println("Scientific name: " + printName + "\n" + "Age: " + printAge  + "\n" + "Weight: " + printWeight);
-
+        //Homework
     }
 }
