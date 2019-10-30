@@ -8,6 +8,13 @@ public class Orchid {
     Orchid(){
 
     }
+    public Orchid(String name) {
+        this.name = name;
+    }
+    public Orchid(String name, int cutOrchid) {
+        this.name = name;
+        this.cutOrchid = cutOrchid;
+    }
 
     public Orchid(String name, int cutOrchid, double species) {
         this.name = name;
