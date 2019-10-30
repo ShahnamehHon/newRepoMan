@@ -1,6 +1,6 @@
 public class Orchidaceae {
     public static void main(String[] args) {
-        // First ver. First opt
+        // First ver. First opt. //
         Orchid orchid_1 = new Orchid();
         orchid_1.setName("Dactylorhiza sambucina");
         orchid_1.setCutOrchid(3);
